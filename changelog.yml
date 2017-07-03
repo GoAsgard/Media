@@ -12,4 +12,4 @@ versions:
             - Cleaned up file partials, both create and edit views use the event system
             - Allow <code>Imagy->getThumbnail()</code> to get the File entity directly
         deleted:
-            - Removing laracasts/flash dependency
+            - Removing laracasts/flash dependencyTOTO
